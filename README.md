@@ -1,5 +1,5 @@
 # gitcoder
-git command description
+git normal command description
 ## git clone
 ## git branch
 ## git branch -r
@@ -7,4 +7,9 @@ git command description
 ## git checkout -b
 ## git status
 ## git log
+## git pull
+## git push
+## git revert
+## git reset
+
 
